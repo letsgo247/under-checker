@@ -2,7 +2,7 @@
 
 '한글 받침 유무 판단기' 함수 코드(파이썬)입니다.
 
-아스키(ASCII) 코드 공식을 활용한 심플한 코드입니다.
+아스키(ASCII) 코드 공식을 활용한 심플한 코드입니다.<br>
 (아스키 코드 계산법은 다음 포스팅을 참고하였습니다 : http://gpgstudy.com/forum/viewtopic.php?p=45059#p45059)
 
 밴드 이름 생성기(https://github.com/letsgo247/band-name-generator) 를 개발하면서 필요에 의해 짠 코드인데,
