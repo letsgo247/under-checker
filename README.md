@@ -1,27 +1,19 @@
-qkeclagvkseksrl
-===========
+# 한글 받침 판단기 by Python
 
-dlrjsdjEjsrkdy?
----------
+'한글 받침 유무 판단기' 함수 코드(파이썬)입니다.
 
-# under-checker
+아스키(ASCII) 코드 공식을 활용한 심플한 코드입니다.
+(아스키 코드 계산법은 다음 포스팅을 참고하였습니다 : http://gpgstudy.com/forum/viewtopic.php?p=45059#p45059)
 
-Hi thie is .
->gkdndkqkendteldtm?
+밴드 이름 생성기(https://github.com/letsgo247/band-name-generator) 를 개발하면서 필요에 의해 짠 코드인데,
+<br>짜면서 은근히 삽질을 많이 해서, 저랑 비슷한 니즈를 가진 다른 분들이 시행착오를 줄였으면 하는 바람으로 결과물을 공유합니다.
 
-1. kqh
-2. cjswo
-3. slal
+## 사용법
 
-- qkqh
-- cjswso
-- slal
-+ qkqh
-+ cjswo
-+ slal
-* qkqh
-  * cjswo
-    * slal
-    
-    
-<pre><code>print('Hello World!)</code></pre>
+기본적으로는 입력된 단어의 마지막 글자 받침 유무에 따라 단어 뒤에 붙는 조사(와 or 과, 을 or 를)를 자동으로 판별해서 입력하기 위해 짠 함수입니다.
+
+하지만 아스키 코드 계산 공식이 핵심이기 때문에, 원하는 용도에 따라 충분히 수정해서 사용할 수도 있을 것 같습니다.
+
+- - -
+
+### Korean final consonant checker code by Python.
