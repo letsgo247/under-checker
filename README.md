@@ -16,4 +16,4 @@
 
 - - -
 
-### Korean final consonant checker code by Python.
+### Korean final consonant checker by Python.
