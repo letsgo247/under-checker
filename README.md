@@ -5,7 +5,7 @@
 아스키(ASCII) 코드 공식을 활용한 심플한 코드입니다.<br>
 (아스키 코드 계산법은 다음 포스팅을 참고하였습니다 : http://gpgstudy.com/forum/viewtopic.php?p=45059#p45059)
 
-밴드 이름 생성기(https://github.com/letsgo247/band-name-generator) 를 개발하면서 필요에 의해 짠 코드인데,
+밴드 이름 생성기(https://github.com/letsgo247/hall-of-name) 를 개발하면서 필요에 의해 짠 코드인데,
 <br>짜면서 은근히 삽질을 많이 해서, 저랑 비슷한 니즈를 가진 다른 분들이 시행착오를 줄였으면 하는 바람으로 결과물을 공유합니다.
 
 ## 사용법
